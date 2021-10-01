@@ -7,12 +7,12 @@ import (
 	"os"
 	"path"
 
-	"github.com/alevinval/fingerprints/internal/debug"
-	"github.com/alevinval/fingerprints/internal/extraction"
-	"github.com/alevinval/fingerprints/internal/helpers"
-	"github.com/alevinval/fingerprints/internal/kernel"
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/processing"
+	"github.com/alevinval/fingerprints/src/debug"
+	"github.com/alevinval/fingerprints/src/extraction"
+	"github.com/alevinval/fingerprints/src/helpers"
+	"github.com/alevinval/fingerprints/src/kernel"
+	"github.com/alevinval/fingerprints/src/matrix"
+	"github.com/alevinval/fingerprints/src/processing"
 )
 
 var outFolderPath = "out"

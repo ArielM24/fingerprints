@@ -1,10 +1,10 @@
 package extraction
 
 import (
-	"github.com/alevinval/fingerprints/internal/kernel"
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/processing"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/src/kernel"
+	"github.com/alevinval/fingerprints/src/matrix"
+	"github.com/alevinval/fingerprints/src/processing"
+	"github.com/alevinval/fingerprints/src/types"
 )
 
 // DetectionResult applies all the available image processing

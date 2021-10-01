@@ -4,8 +4,8 @@ import (
 	"image"
 	"testing"
 
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/src/matrix"
+	"github.com/alevinval/fingerprints/src/types"
 	"github.com/stretchr/testify/assert"
 )
 

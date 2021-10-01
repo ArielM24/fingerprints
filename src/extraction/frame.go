@@ -5,8 +5,8 @@ import (
 	"log"
 	"math"
 
-	"github.com/alevinval/fingerprints/internal/matrix"
-	"github.com/alevinval/fingerprints/internal/types"
+	"github.com/alevinval/fingerprints/src/matrix"
+	"github.com/alevinval/fingerprints/src/types"
 )
 
 // Frame detects the boundaries of the fingerprint and establishes
